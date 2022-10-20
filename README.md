@@ -1,3 +1,3 @@
 # streamlit_apps
 Streamlit apps include:
-1. Prediction of iris species using SVC, Random Forest Classifier and Logistic Regression.
+1. Prediction of iris species using SVC, Random Forest Classifier and Logistic Regression in improved_iris.py
